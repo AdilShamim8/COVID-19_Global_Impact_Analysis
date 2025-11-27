@@ -83,5 +83,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [Adil Shamim](https://adilshamim.me/)
 
 ---
-
 Last updated: November 2025
